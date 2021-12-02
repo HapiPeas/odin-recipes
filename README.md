@@ -5,5 +5,5 @@ Purpose:
 
 Goals:
 1. Basic HTML template
-2. HTML &<;a href >, &<;strong>, &<;em>, &<;img src> tags
+2. HTML < a href >, < strong>, < em>, < img src> tags
 
